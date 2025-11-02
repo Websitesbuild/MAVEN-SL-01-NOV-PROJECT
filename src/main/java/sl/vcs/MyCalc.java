@@ -36,8 +36,8 @@ public class MyCalc {
 		System.out.println("This is Hello!");
 	}
 	
-	public void demo(){
-		System.out.println("This is Demo!");
+	public void demo1(){
+		System.out.println("This is Demo-1");
 	}
 
 	public static void main(String[] args) {
@@ -51,6 +51,6 @@ public class MyCalc {
 		calc.show();
 		calc.demo();
 		calc.hello();
-		calc.demo();
+		calc.demo1();
 	}
 }
