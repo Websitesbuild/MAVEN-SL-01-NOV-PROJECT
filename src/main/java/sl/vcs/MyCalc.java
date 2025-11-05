@@ -56,5 +56,6 @@ public class MyCalc {
 		calc.demo();
 		calc.hello();
 		calc.demo1();
+		calc.demo2();
 	}
 }
