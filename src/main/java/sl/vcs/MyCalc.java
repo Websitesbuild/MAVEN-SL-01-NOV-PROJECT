@@ -40,6 +40,10 @@ public class MyCalc {
 		System.out.println("This is Demo-1");
 	}
 
+	public void demo2(){
+		System.out.println("This is Demo-2");
+	}
+
 	public static void main(String[] args) {
 		MyCalc calc = new MyCalc();
 		System.out.println("Sum is :"+calc.sum(20, 10));
