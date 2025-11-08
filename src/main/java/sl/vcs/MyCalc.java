@@ -33,7 +33,7 @@ public class MyCalc {
 	}
 	public void hello()
 	{
-		System.out.println("This is Hello!");
+		System.out.println("This is Hello Amit");
 	}
 	
 	public void demo1(){
